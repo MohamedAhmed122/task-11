@@ -1,0 +1,9 @@
+G:\Programms and Projects\New folder (4)\Task11\Task11\bin\Debug\Task11.exe.config
+G:\Programms and Projects\New folder (4)\Task11\Task11\bin\Debug\Task11.exe
+G:\Programms and Projects\New folder (4)\Task11\Task11\bin\Debug\Task11.pdb
+G:\Programms and Projects\New folder (4)\Task11\Task11\obj\Debug\Task11.csprojAssemblyReference.cache
+G:\Programms and Projects\New folder (4)\Task11\Task11\obj\Debug\Task11.Properties.Resources.resources
+G:\Programms and Projects\New folder (4)\Task11\Task11\obj\Debug\Task11.csproj.GenerateResource.cache
+G:\Programms and Projects\New folder (4)\Task11\Task11\obj\Debug\Task11.csproj.CoreCompileInputs.cache
+G:\Programms and Projects\New folder (4)\Task11\Task11\obj\Debug\Task11.exe
+G:\Programms and Projects\New folder (4)\Task11\Task11\obj\Debug\Task11.pdb
